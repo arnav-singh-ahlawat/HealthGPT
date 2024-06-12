@@ -1,0 +1,13 @@
+accelerate
+altair
+ctransformers
+faiss-cpu
+huggingface-hub
+langchain
+pypdf
+sentence-transformers
+streamlit
+streamlit-chat
+tiktoken
+torch
+transformers
