@@ -1,5 +1,7 @@
 # HealthGPT - A Conversational AI for Medical Information Access
 
+![#USER-INTERFACE](https://github.com/arnav-singh-ahlawat/HealthGPT/assets/159664776/3d416fc7-942f-4b34-b0ff-5ab89a517c57)
+
 ## Overview:
 
 This project, created for the GenAI Genesis Hackathon 2024, empowers patients with a user-friendly interface to access medical knowledge from a curated collection of medical textbooks like a digital doctor! ‍⚕️ By leveraging the power of large language models (LLMs) and natural language processing (NLP) techniques, HealthGPT facilitates interactive conversations where users can describe their symptoms and medical history, receiving informative responses based on the processed information ℹ️.
